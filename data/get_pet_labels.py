@@ -62,4 +62,4 @@ def get_pet_labels(image_dir):
     # Replace None with the results_dic dictionary that you created with this
     # functio
     return results_dic
-get_pet_labels('data/pet_images/')
+get_pet_labels('data/pet_images')
